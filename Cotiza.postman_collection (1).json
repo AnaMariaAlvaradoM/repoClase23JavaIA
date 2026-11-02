@@ -1,0 +1,1 @@
+{"info":{"name":"Cotiza","schema":"https://schema.getpostman.com/json/collection/v2.1.0/collection.json"},"item":[{"name":"listar clientes","request":{"method":"GET","url":"http://localhost:8080/clientes"}}]}

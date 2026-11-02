@@ -1,0 +1,3 @@
+preguntarle al profe por que no me sale el post
+la clave del mysql es Root1234*
+pendiente: hacer el readme (algun dia jaja)
