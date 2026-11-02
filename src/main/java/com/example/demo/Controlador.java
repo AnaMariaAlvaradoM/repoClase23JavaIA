@@ -35,6 +35,6 @@ public class Controlador {
     @DeleteMapping("/borrar/{id}")
     public String borrar(@PathVariable Long id) {
         repo.deleteById(id);
-        return "borrado ok";
+        return "borrado ok!!";
     }
 }
